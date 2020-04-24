@@ -58,6 +58,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+malihu-custom-scrollbar-plugin
+MIT
+
 regenerator-runtime
 MIT
 MIT License
