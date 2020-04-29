@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## steps
 
-ng build --prod --base-href="https://SereetsiKC.github.io/LawFirmManagement/"
+ng build --base-href="https://SereetsiKC.github.io/LawFirmManagement/" -c=production
 ngh
 
 ## Test Url On github
