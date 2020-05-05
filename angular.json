@@ -65,6 +65,7 @@
               "src/assets/JS/peity/peity-active.js",
               "src/assets/JS/sparkline/jquery.sparkline.min.js",
               "src/assets/JS/sparkline/sparkline-active.js",
+              "src/assets/JS/Lobibox.js" ,
               "src/assets/JS/main.js" 
             ]
           },
