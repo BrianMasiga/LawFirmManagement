@@ -51,7 +51,7 @@
               "node_modules/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css"
             ],
             "scripts": [
-              "node_modules/jquery/dist/jquery.js",
+              "src/assets/JS/jquery-1.11.3.min.js",
               "node_modules/bootstrap/dist/js/bootstrap.min.js",
               "src/assets/JS/jquery.meanmenu.js",
               "node_modules/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js",

@@ -14,6 +14,10 @@ import { FooterComponent } from './components/footer/footer.component';
 import { StoreModule } from '@ngrx/store';
 import { userReducer } from './store/reducers/user.reducer';
 import { StoreService } from './services/store/store.service';
+import { SettingsComponent } from './components/admin/settings/settings.component';
+import { UserActionsComponent } from './components/admin/user-actions/user-actions.component';
+import { MessagesComponent } from './components/admin/messages/messages.component';
+import { NotificationsComponent } from './components/admin/notifications/notifications.component';
 
 
 @NgModule({
@@ -24,7 +28,11 @@ import { StoreService } from './services/store/store.service';
     SidebarComponent,
     TopbarComponent,
     ChartboxComponent,
-    FooterComponent
+    FooterComponent,
+    SettingsComponent,
+    UserActionsComponent,
+    MessagesComponent,
+    NotificationsComponent
   ],
   imports: [
     BrowserModule,

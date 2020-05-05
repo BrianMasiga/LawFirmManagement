@@ -39,7 +39,7 @@
 		 mCustomScrollbar
 		---------------------------- */	
 			$(window).on("load",function(){
-				$(".message-menu, .notification-menu, .comment-scrollbar, .notes-menu-scrollbar, .project-st-menu-scrollbar").mCustomScrollbar({
+				$(".comment-scrollbar, .notes-menu-scrollbar, .project-st-menu-scrollbar").mCustomScrollbar({
 					autoHideScrollbar: true,
 					scrollbarPosition: "outside",
 					theme:"light-1"

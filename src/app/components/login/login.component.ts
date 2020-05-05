@@ -37,6 +37,7 @@ export class LoginComponent {
         LoggedIn: true,
         FirstName: `Kopano`,
         Surname: `Sereetsi`,
+        JobTitle:`Developer`,
         Username: 'sereetsikc@gmail.com',
         Token: `hajsdhfiuy32uih23iquortgfvhsb,fjx09074836528`,
       };
